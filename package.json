@@ -17,9 +17,23 @@
   },
   "homepage": "https://github.com/sujeethk/ezeejs#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "chalk": "^1.1.3",
+    "compression": "^1.6.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "helmet": "^3.1.0",
+    "lodash": "^4.17.2",
+    "lusca": "^1.4.1",
+    "method-override": "^2.3.7",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.3.2"
   },
   "optionalDependencies": {
-    "mongoose": "^4.6.8"
+    "mongoose": "^4.6.8",
+    "winston": "^2.3.0"
   }
 }
