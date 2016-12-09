@@ -9,5 +9,6 @@ NPM package that eliminates the need for coding to spin up a server --WIP
 
 ## Under development
 
-If you are interested in contributing open an issue
+If you are interested in contributing open an issue. 
+
 Inspired by MEAN.js
